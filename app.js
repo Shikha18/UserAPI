@@ -10,7 +10,7 @@ var mongoose = require('mongoose');
 
 
 
-var dev_db_url = 'mongodb://shikha18:mangal1997@ds125872.mlab.com:25872/sample_user';
+var dev_db_url = 'mongodb://username:userpassword@ds125872.mlab.com:25872/sample_user';
 
 
 
