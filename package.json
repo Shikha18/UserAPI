@@ -1,0 +1,21 @@
+{
+  "name": "node1",
+  "version": "1.0.0",
+  "description": "A node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "node.js",
+    "mongodb"
+  ],
+  "author": "shikha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "5.2.9"
+  }
+}
